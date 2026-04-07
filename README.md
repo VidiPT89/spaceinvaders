@@ -25,9 +25,9 @@ A browser-based recreation of the 1978 Taito arcade classic — rebuilt from scr
 ```
 ╔══════════════════════════════════════════════════╗
 ║                                                  ║
-║   👾  👾  👾  👾  👾  👾  👾  👾   ← ROW 1      ║
-║   👾  👾  👾  👾  👾  👾  👾  👾   ← ROW 2      ║
-║   👾  👾  👾  👾  👾  👾  👾  👾   ← ROW 3      ║
+║   👾  👾  👾  👾  👾  👾  👾  👾   ← ROW 1     ║
+║   👾  👾  👾  👾  👾  👾  👾  👾   ← ROW 2     ║
+║   👾  👾  👾  👾  👾  👾  👾  👾   ← ROW 3     ║
 ║                                                  ║
 ║             ↙  sweeping  ↘                       ║
 ║            ↙   left &    ↘                       ║

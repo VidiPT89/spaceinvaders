@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#game {
+    position: relative;
+    width: 600px;
+    height: 600px;
+    margin: 20px auto;
+    background-color: #111;
+    overflow: hidden;
+    border: 2px solid white;
+}
+
+#player {
+    position: absolute;
+    bottom: 20px;
+    left: 280px;
+    width: 40px;
+    height: 20px;
+    background-color: green;
+}
+
+.invader {
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    background-color: red;
+}
+
+.bullet {
+    position: absolute;
+    width: 5px;
+    height: 10px;
+    background-color: yellow;
+}
